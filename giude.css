@@ -1,0 +1,8 @@
+.thumbnail {
+    width: 22em;
+}
+@media (max-width: 768px) {
+    .thumbnail {
+        width: 15em;
+    }
+}
